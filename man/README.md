@@ -12,13 +12,16 @@ library(imager)
 library(data.table)
 library(ggplot2)
 library(magick)
+you might need to install quartsx11 as well
 
 install_github("trevorjgoiuld/ImagePaletteR")
 
 
 **Create your Own**
 1) get a picture on your computer 
+
 2) mycolors <-hex.image("image.jpg",NumberColorsNeeded) 
+
 3) mycolors is the custom color list
 
 The palettes themselves are created using kmeans clustering of pixels.

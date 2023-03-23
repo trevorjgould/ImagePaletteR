@@ -98,14 +98,15 @@ hex.image <- function(x,y){
   colnum <- y
   p <- show_color(out, ncol=colnum, border = "white", label = TRUE)
   p
-  ggsave(p, file = "temp.jpg", height = ((dim(img)[2])*.25), width = dim(img)[1], units = "px", dpi = 800)
+  ggsave(p, file = "temp.png", height = ((dim(img)[2])*.25), width = dim(img)[1], units = "px", dpi = 800)
   a <- image_read(x)
-  b <- image_read("temp.jpg")
-  filename <- paste0("full_",x)
+  b <- image_read("temp.png")
+  filename <- paste0("your_palette.png")
   both <- c(a,b)
   both <- image_append(both,stack=TRUE)
   plot(both)
   image_write(both, path = filename, format = "png")
+  file.remove("temp.png")
   return(out)
 }
 

@@ -1,0 +1,11 @@
+Package: ImagePaletteR
+Type: Package
+Title: Palettes from Images
+Version: 0.1.0
+Author: Trevor Gould
+Maintainer: Trevor Gould <TrevorJGould@gmail.com>
+Description: Create a color palette from images with means clustering
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: scales, imager, data.table, ggplot2, magick
