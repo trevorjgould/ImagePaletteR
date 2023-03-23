@@ -21,11 +21,16 @@ install_github("trevorjgoiuld/ImagePaletteR")
 2) mycolors <-hex.image("image.jpg",NumberColorsNeeded) 
 3) mycolors is the custom color list
 
+The palettes themselves are created using kmeans clustering of pixels.
+where the "NumberColorsNeeded" you request is the number of clusters. 
+
 **Use These Palettes**
 mycolors <- ImagePaletteR(BigFish)
 
-All Credit for these photos goes to the fantastic: 
+All Credit for these photos goes to the fantastic:
+ 
 https://www.facebook.com/cinemapalettes
+
 and of course the movies themselves
 
 Joker1
