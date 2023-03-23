@@ -64,7 +64,7 @@ RearWindow
 ![image](/output_images/full_Rear_Window.jpeg)
 
 Suspiria
-![image](/output_images/full_suspiria.jpge)
+![image](/output_images/full_suspiria.jpeg)
 
 Vertigo1
 ![image](/output_images/full_Vertigo1.jpg)
