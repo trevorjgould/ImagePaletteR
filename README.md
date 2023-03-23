@@ -1,14 +1,17 @@
 
 ***ImagePaletteR***
-
-![logo](/output_images/full_Dunkirk.jpg) 
 **Make Your Own Palette Using an Image**
+![logo](/output_images/full_Dunkirk.jpg) 
+
 1) get a picture on your computer 
 2) mycolors <-hex.image("image.jpg",NumberColorsNeeded) 
 3) mycolors is the custom color list
 
 **Install**
+
 install_github("trevorjgoiuld/ImagePaletteR")
+
+
 
 **Included are some example palettes for you to use** 
 
@@ -18,7 +21,7 @@ https://www.facebook.com/cinemapalettes
 Joker1
 ![image](/output_images/full_Joker1.jpg)
 
-Mad Max 
+MadMax 
 ![image](/output_images/full_mad_max.jpeg)
 
 Dunkirk 
@@ -27,13 +30,13 @@ Dunkirk
 Atonement
 ![image](/output_images/full_atonement.jpeg)
 
-Big Fish
-![image](/output_images/full_big_fish_.jpeg)
+BigFish
+![image](/output_images/full_big_fish.jpeg)
 
-Color Out of Space
+ColorOutofSpace
 ![image](/output_images/full_Color_Out_of_Space.jpg)
 
-Eternal Sunshine 1
+EternalSunshine1
 ![image](/output_images/full_Eternal_Sunshine1.jpeg)
 
 Her
@@ -45,20 +48,20 @@ Joker3
 lalaland
 ![image](/output_images/full_lalaland.jpeg)
 
-Marie Antoinette
+MarieAntoinette
 ![image](/output_images/full_MarieAntoinette.jpeg)
 
 Melancholia
 ![image](/output_images/full_melancholia.jpeg)
 
-Once Upon a Time in Hollywood
+OnceUponaTimeinHollywood
 ![image](/output_images/full_Once_Upon_a_Time_in_Hollywood.jpeg)
 
-Promising Young Women
-![image](/output_images/full_her.jpeg)
+PromisingYoungWomen
+![image](/output_images/full_promising_young_women.jpeg)
 
-Rear Window
-![image](/output_images/full_her.jpeg)
+RearWindow
+![image](/output_images/full_Rear_Window.jpeg)
 
 Suspiria
 ![image](/output_images/full_suspiria.jpge)
@@ -69,3 +72,5 @@ Vertigo1
 Vertigo2
 ![image](/output_images/full_Vertigo2.jpeg)
 
+**Use These Palettes**
+mycolors <- ImagePaletteR(BigFish)
