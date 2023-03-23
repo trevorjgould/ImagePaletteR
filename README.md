@@ -11,6 +11,9 @@ editor_options:
 2) mycolors <-hex.image("image.jpg",NumberColorsNeeded) 
 3) mycolors is the custom color list
 
+**Install**
+install_github("trevorjgoiuld/ImagePaletteR")
+
 **Included are some example palettes for you to use** 
 
 All Credit for these photos goes to the fantastic: 
