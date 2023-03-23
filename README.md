@@ -1,8 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 ***ImagePaletteR***
 
 ![logo](/output_images/full_Dunkirk.jpg) 
@@ -23,53 +19,53 @@ Joker1
 ![image](/output_images/full_Joker1.jpg)
 
 Mad Max 
-![image](/output_images/full_mad_max.jpg)
+![image](/output_images/full_mad_max.jpeg)
 
 Dunkirk 
 ![image](/output_images/full_Dunkirk.jpg)
 
 Atonement
-![image](/output_images/full_atonement.jpg)
+![image](/output_images/full_atonement.jpeg)
 
 Big Fish
-![image](/output_images/full_big_fish_.jpg)
+![image](/output_images/full_big_fish_.jpeg)
 
 Color Out of Space
 ![image](/output_images/full_Color_Out_of_Space.jpg)
 
 Eternal Sunshine 1
-![image](/output_images/full_Eternal_Sunshine1.jpg)
+![image](/output_images/full_Eternal_Sunshine1.jpeg)
 
 Her
-![image](/output_images/full_her.jpg)
+![image](/output_images/full_her.jpeg)
 
 Joker3
-![image](/output_images/full_joker3.jpg)
+![image](/output_images/full_joker3.jpeg)
 
 lalaland
-![image](/output_images/full_lalaland.jpg)
+![image](/output_images/full_lalaland.jpeg)
 
 Marie Antoinette
-![image](/output_images/full_MarieAntoinette.jpg)
+![image](/output_images/full_MarieAntoinette.jpeg)
 
 Melancholia
-![image](/output_images/full_melancholia.jpg)
+![image](/output_images/full_melancholia.jpeg)
 
 Once Upon a Time in Hollywood
-![image](/output_images/full_Once_Upon_a_Time_in_Hollywood.jpg)
+![image](/output_images/full_Once_Upon_a_Time_in_Hollywood.jpeg)
 
 Promising Young Women
-![image](/output_images/full_her.jpg)
+![image](/output_images/full_her.jpeg)
 
 Rear Window
-![image](/output_images/full_her.jpg)
+![image](/output_images/full_her.jpeg)
 
 Suspiria
-![image](/output_images/full_suspiria.jpg)
+![image](/output_images/full_suspiria.jpge)
 
 Vertigo1
 ![image](/output_images/full_Vertigo1.jpg)
 
 Vertigo2
-![image](/output_images/full_Vertigo2.jpg)
+![image](/output_images/full_Vertigo2.jpeg)
 
