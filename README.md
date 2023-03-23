@@ -3,20 +3,30 @@
 **Make Your Own Palette Using an Image**
 ![logo](/output_images/full_Dunkirk.jpg) 
 
-1) get a picture on your computer 
-2) mycolors <-hex.image("image.jpg",NumberColorsNeeded) 
-3) mycolors is the custom color list
 
 **Install**
+
+dependencies:
+library(scales)
+library(imager)
+library(data.table)
+library(ggplot2)
+library(magick)
 
 install_github("trevorjgoiuld/ImagePaletteR")
 
 
+**Create your Own**
+1) get a picture on your computer 
+2) mycolors <-hex.image("image.jpg",NumberColorsNeeded) 
+3) mycolors is the custom color list
 
-**Included are some example palettes for you to use** 
+**Use These Palettes**
+mycolors <- ImagePaletteR(BigFish)
 
 All Credit for these photos goes to the fantastic: 
 https://www.facebook.com/cinemapalettes
+and of course the movies themselves
 
 Joker1
 ![image](/output_images/full_Joker1.jpg)
@@ -72,5 +82,3 @@ Vertigo1
 Vertigo2
 ![image](/output_images/full_vertigo2.jpg)
 
-**Use These Palettes**
-mycolors <- ImagePaletteR(BigFish)
