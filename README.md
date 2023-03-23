@@ -37,7 +37,7 @@ ColorOutofSpace
 ![image](/output_images/full_Color_Out_of_Space.jpg)
 
 EternalSunshine1
-![image](/output_images/full_Eternal_Sunshine1.jpeg)
+![image](/output_images/full_eternal_sunshine1.jpeg)
 
 Her
 ![image](/output_images/full_her.jpeg)
@@ -55,7 +55,7 @@ Melancholia
 ![image](/output_images/full_melancholia.jpeg)
 
 OnceUponaTimeinHollywood
-![image](/output_images/full_Once_Upon_a_Time_in_hollywood.jpeg)
+![image](/output_images/full_Once_Upon_a_time_in_hollywood.jpeg)
 
 PromisingYoungWomen
 ![image](/output_images/full_promising_young_women.jpeg)
