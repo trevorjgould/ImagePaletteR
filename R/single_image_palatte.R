@@ -110,3 +110,25 @@ hex.image <- function(x,y){
   return(out)
 }
 
+#list of images
+Atonement<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/atonement.jpeg"                    
+BigFish<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/big fish.jpeg"                     
+ColorOutofSpace<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/Color_Out_of_Space.jpg"            
+Dunkirk<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/Dunkirk.jpg"                       
+EternalSunshine1<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/eternal sunshine.jpeg"             
+EternalSunshine2<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/Eternal_Sunshine2.jpeg"            
+Her<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/her.jpeg"                          
+Joker1<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/Joker1.jpg"                        
+Joker3<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/joker3.jpeg"                       
+lalaland<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/lalaland.jpeg"                     
+MadMax<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/mad max.jpeg"                      
+MarieAntoinette<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/MarieAntoinette.jpeg"              
+Melancholia<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/melancholia.jpeg"                  
+OnceUponaTimeinHollywood1<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/Once Upon a time in hollywood.jpeg"
+OnceUponaTimeinHollywood2<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/once_upon_a_time2.jpeg"            
+PromisingYoungWomen<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/promising young women.jpeg"        
+RearWindow<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/RearWindow.jpeg"                   
+Suspiria<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/suspiria.jpeg"                     
+Vertigo2<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/Vertigo1.jpg"                      
+Vertigo2<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/vertigo2.jpg"                      
+VirginSuicides1<-"GitHub/ImagePaletteR/ImagePaletteR/R/source_images/Virgin_Suicides1.jpeg"
