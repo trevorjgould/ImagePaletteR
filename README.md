@@ -55,7 +55,7 @@ Melancholia
 ![image](/output_images/full_melancholia.jpeg)
 
 OnceUponaTimeinHollywood
-![image](/output_images/full_Once_Upon_a_Time_in_Hollywood.jpeg)
+![image](/output_images/full_Once_Upon_a_Time_in_hollywood.jpeg)
 
 PromisingYoungWomen
 ![image](/output_images/full_promising_young_women.jpeg)
@@ -70,7 +70,7 @@ Vertigo1
 ![image](/output_images/full_Vertigo1.jpg)
 
 Vertigo2
-![image](/output_images/full_Vertigo2.jpeg)
+![image](/output_images/full_vertigo2.jpg)
 
 **Use These Palettes**
 mycolors <- ImagePaletteR(BigFish)
