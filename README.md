@@ -37,56 +37,56 @@ https://www.facebook.com/cinemapalettes
 and of course the movies themselves
 
 Joker1
-![image](/output_images/full_Joker1.jpg)
+![image](/R/output_images/full_Joker1.jpg)
 
 MadMax 
-![image](/output_images/full_mad_max.jpeg)
+![image](/R/output_images/full_mad_max.jpeg)
 
 Dunkirk 
-![image](/output_images/full_Dunkirk.jpg)
+![image](/R/output_images/full_Dunkirk.jpg)
 
 Atonement
-![image](/output_images/full_atonement.jpeg)
+![image](/R/output_images/full_atonement.jpeg)
 
 BigFish
-![image](/output_images/full_big_fish.jpeg)
+![image](/R/output_images/full_big_fish.jpeg)
 
 ColorOutofSpace
-![image](/output_images/full_Color_Out_of_Space.jpg)
+![image](/R/output_images/full_Color_Out_of_Space.jpg)
 
 EternalSunshine1
-![image](/output_images/full_eternal_sunshine1.jpeg)
+![image](/R/output_images/full_eternal_sunshine1.jpeg)
 
 Her
-![image](/output_images/full_her.jpeg)
+![image](/R/output_images/full_her.jpeg)
 
 Joker3
-![image](/output_images/full_joker3.jpeg)
+![image](/R/output_images/full_joker3.jpeg)
 
 lalaland
-![image](/output_images/full_lalaland.jpeg)
+![image](/R/output_images/full_lalaland.jpeg)
 
 MarieAntoinette
-![image](/output_images/full_MarieAntoinette.jpeg)
+![image](/R/output_images/full_MarieAntoinette.jpeg)
 
 Melancholia
-![image](/output_images/full_melancholia.jpeg)
+![image](/R/output_images/full_melancholia.jpeg)
 
 OnceUponaTimeinHollywood
-![image](/output_images/full_Once_Upon_a_time_in_hollywood.jpeg)
+![image](/R/output_images/full_Once_Upon_a_time_in_hollywood.jpeg)
 
 PromisingYoungWomen
-![image](/output_images/full_promising_young_women.jpeg)
+![image](/R/output_images/full_promising_young_women.jpeg)
 
 RearWindow
-![image](/output_images/full_Rear_Window.jpeg)
+![image](/R/output_images/full_Rear_Window.jpeg)
 
 Suspiria
-![image](/output_images/full_suspiria.jpeg)
+![image](/R/output_images/full_suspiria.jpeg)
 
 Vertigo1
-![image](/output_images/full_Vertigo1.jpg)
+![image](/R/output_images/full_Vertigo1.jpg)
 
 Vertigo2
-![image](/output_images/full_vertigo2.jpg)
+![image](/R/output_images/full_vertigo2.jpg)
 
