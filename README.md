@@ -1,7 +1,7 @@
 
 ***ImagePaletteR***
 **Make Your Own Palette Using an Image**
-![logo](/output_images/full_Dunkirk.jpg) 
+![logo](/R/output_images/full_Dunkirk.jpg) 
 
 
 **Install**
