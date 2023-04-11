@@ -12,6 +12,7 @@ library(imager)
 library(data.table)
 library(ggplot2)
 library(magick)
+
 you might need to install quartsx11 as well
 
 install_github("trevorjgoiuld/ImagePaletteR")
