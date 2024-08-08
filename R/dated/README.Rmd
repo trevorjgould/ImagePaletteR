@@ -1,0 +1,51 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "Output_images/",
+  fig.height = 1
+)
+```
+
+#Cinema Palettes
+
+I'm a fan of what Cinema Pallates is doing on facebook and wanted to bring their palattes to R
+
+## Installation
+
+```r
+devtools::install_github("trevorjgould/CinemaPalatteR")
+
+```
+
+## Usage
+```{r, palettes_dummy}
+#library("CinemaPalatteR")
+# See all palettes
+names(Cinema_palette)
+```
+
+## Palettes
+
+### Joker
+
+```{r, Joker}
+Cinema_palette("Joker1")
+Cinema_palette("Joker2")
+```
+
+### Atonement
+
+```{r, atonement}
+Cinema_palette("atonement")
+```
+
+###
