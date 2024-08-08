@@ -37,56 +37,25 @@ https://www.facebook.com/cinemapalettes
 and of course the movies themselves
 
 Joker1
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_Joker1.jpg)
+![full_Joker1](https://github.com/user-attachments/assets/42105f9e-505b-4d87-bc07-46b097416e86)
 
 MadMax 
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_mad_max.jpeg)
-
-Dunkirk 
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_Dunkirk.jpg)
+![full_mad_max](https://github.com/user-attachments/assets/feadbc86-99d9-43c0-bd58-25e01e5c9d22)
 
 Atonement
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_atonement.jpeg)
+![full_atonement](https://github.com/user-attachments/assets/133bc569-1c5e-4f25-9ff2-b5d7813ae151)
 
 BigFish
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_big_fish.jpeg)
-
-ColorOutofSpace
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_Color_Out_of_Space.jpg)
+![full_big_fish](https://github.com/user-attachments/assets/daa595f6-715d-4443-963f-edb37a80fbce)
 
 EternalSunshine1
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_eternal_sunshine1.jpeg)
+![full_eternal_sunshine1](https://github.com/user-attachments/assets/c1ba2817-3b53-4e34-8992-75424b90ae8e)
 
 Her
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_her.jpeg)
+![full_her](https://github.com/user-attachments/assets/9f0310c4-a660-41fc-af1a-3bfcf1962264)
 
 Joker3
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_joker3.jpeg)
+![full_joker3](https://github.com/user-attachments/assets/6ade7006-cc7e-4b65-9c03-890048036f7f)
 
 lalaland
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_lalaland.jpeg)
-
-MarieAntoinette
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_MarieAntoinette.jpeg)
-
-Melancholia
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_melancholia.jpeg)
-
-OnceUponaTimeinHollywood
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_Once_Upon_a_time_in_hollywood.jpeg)
-
-PromisingYoungWomen
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_promising_young_women.jpeg)
-
-RearWindow
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_Rear_Window.jpeg)
-
-Suspiria
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_suspiria.jpeg)
-
-Vertigo1
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_Vertigo1.jpg)
-
-Vertigo2
-![image](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_vertigo2.jpg)
-
+![full_lalaland](https://github.com/user-attachments/assets/7e09d59e-6dde-44e5-b590-27da1602e7d4)
