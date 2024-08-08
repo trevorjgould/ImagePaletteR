@@ -1,8 +1,7 @@
 
 ***ImagePaletteR***
 **Make Your Own Palette Using an Image**
-![logo](https://github.com/trevorjgould/ImagePaletteR/tree/main/man/output_images/full_Dunkirk.jpg) 
-
+![full_Dunkirk](https://github.com/user-attachments/assets/f0d9c382-6531-439f-861e-b9b67b8b2119)
 
 **Install**
 
