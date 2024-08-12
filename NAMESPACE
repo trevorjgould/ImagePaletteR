@@ -2,4 +2,5 @@
 
 export(getHexPrimaries)
 export(hex.image)
+export(show_color)
 importFrom(rlang,":=")

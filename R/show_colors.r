@@ -10,6 +10,7 @@
 #' number boolean
 #' size 1
 #' border black
+#' @export
 
 
 # author of show_color function: Chai
