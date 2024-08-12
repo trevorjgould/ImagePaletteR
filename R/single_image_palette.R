@@ -14,7 +14,7 @@ getHexPrimaries <- function(img, cutoff){
   channel <- cc <- .N <- R <- N <- G <- B <- NULL
   #convert cimg to workable format
   channel.labels <- c('R','G','B','A')[1:dim(img)[4]]
-  img <- data.table::as.data.table(as.data.frame(img))
+  img <- as.data.table(as.data.frame(img))
   img[,channel := factor(cc ,labels=channel.labels)]
   img <- data.table::dcast(img, x+y ~ channel, value.var = "value")
   
