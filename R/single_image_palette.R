@@ -4,26 +4,13 @@
 #'
 #' @param img image file
 #' @param cutoff number of colors to provide
-#'
+#' @example
+#' out <- getHexPrimaries(imagefile,6)
 #' @export
-
-
-# functions
-# had to install quartsx11
-#library(scales)
-#library(imager)
-#library(data.table)
-#library(ggplot2)
-#library(magick)
-# this function takes an image in imager's cimg format and 
-# returns the hex colour codes for the top [cutoff] colors by
-# kmeans clustering coverage area of the image. 
-
-# usage:  
-# out <- hex.image("Eternal_Sunshine2.jpeg",20)
 
 # kmeans clustering of image
 getHexPrimaries <- function(img, cutoff){
+  # source: https://rdrr.io/github/jacobgolan/HEXeR/src/R/casthex.R
   channel <- cc <- .N <- R <- N <- G <- B <- NULL
   #convert cimg to workable format
   channel.labels <- c('R','G','B','A')[1:dim(img)[4]]
@@ -43,25 +30,6 @@ getHexPrimaries <- function(img, cutoff){
       hex
     })
   hex.primaries
-}
-
-hex.image <- function(x,y){
-  img <- imager::load.image(x)
-  out <- getHexPrimaries(img, y)
-  if(y>10){y=10}
-  colnum <- y
-  p <- show_color(out, ncol=colnum, border = "white", label = TRUE)
-  p
-  ggplot2::ggsave(p, file = "temp.png", height = ((dim(img)[2])*.25), width = dim(img)[1], units = "px", dpi = 800)
-  a <- magick::image_read(x)
-  b <- magick::image_read("temp.png")
-  filename <- paste0("your_palette.png")
-  both <- c(a,b)
-  both <- magick::image_append(both,stack=TRUE)
-  plot(both)
-  magick::image_write(both, path = filename, format = "png")
-  file.remove("temp.png")
-  return(out)
 }
 
 #list of images
