@@ -1,7 +1,7 @@
 Package: ImagePaletteR
 Type: Package
 Title: create color palette from Image
-Version: 0.3.0
+Version: 0.4.0
 Authors@R: person("Gould", "Trevor", email = "goul0109@umn.edu",
   role = c("aut", "cre"))
 Description: Creates a color palette from clustering a provided image to a set number of clusters.
@@ -12,7 +12,6 @@ Imports:
     imager,
     data.table,
     ggplot2,
-    magick,
-    rlang
+    magick
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3

@@ -2,6 +2,6 @@
 "_PACKAGE"
 
 ## usethis namespace: start
-#' @importFrom rlang :=
+#' @importFrom data.table :=
 ## usethis namespace: end
 NULL

@@ -2,6 +2,7 @@
 #'
 #' This creates a color palette from an image
 #'
+#' @importFrom data.table :=
 #' @param img image file
 #' @param cutoff number of colors to provide
 #' @example
@@ -14,7 +15,7 @@ getHexPrimaries <- function(img, cutoff){
   channel <- cc <- .N <- R <- N <- G <- B <- NULL
   #convert cimg to workable format
   channel.labels <- c('R','G','B','A')[1:dim(img)[4]]
-  img <- data.table::as.data.table(imager::as.data.frame(img))
+  img <- data.table::as.data.table(as.data.frame(img))
   img[,channel := factor(cc ,labels=channel.labels)]
   img <- data.table::dcast(img, x+y ~ channel, value.var = "value")
   
